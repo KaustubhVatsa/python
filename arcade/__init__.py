@@ -1,0 +1,1 @@
+print(f"[__init__.py] package loading, __name__ = {__name__}")
